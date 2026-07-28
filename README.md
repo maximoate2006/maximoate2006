@@ -16,7 +16,7 @@ Reach Me                 | [![Gmail](https://img.shields.io/badge/-maximoate2006
 
 ## Blog Posts
 <!-- blog star -->
-* Hackathon-IPT-2026(July)
+* [Hackathon-IPT-2026(July)](https://github.com/maximoate2006/Proceso-de-investigaci-n-para-el-proyecto-Hackaton-IPT-2026)
 
 * [MxM Proggame](https://maximoate2006.github.io/MAXI-TEC/) - 2026-03-20
 
