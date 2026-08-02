@@ -17,6 +17,8 @@ Reach Me                 | [![Gmail](https://img.shields.io/badge/-maximoate2006
 ## Blog Posts
 <!-- blog star -->
 
+* [FIRST Software-dev for GYM](https://github.com/maximoate2006/Software-ATOM-GYM) - 2/08/2026
+
 * [MxM Proggame](https://maximoate2006.github.io/MAXI-TEC/) - 2026-03-20
 
-* Last Edit 28/07/2026
+* Last Edit 02/07/2026
