@@ -2,7 +2,9 @@
   <img src="https://i.pinimg.com/474x/6f/05/56/6f05568ed855b25e4849f323e82c6b7e.jpg" width="250">
   \-------/
   <img src="https://thumbs.dreamstime.com/b/c%C3%B3digo-de-computadora-abstracto-en-blanco-negro-programaci%C3%B3n-sobre-fondo-concepto-ciberespacio-180554139.jpg" width="250">
-
+</p>
+<p align="center">
+<img src="Full Stack.png" width="500">
 </p>
 
 ## Profile
