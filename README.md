@@ -4,7 +4,7 @@
   <img src="https://thumbs.dreamstime.com/b/c%C3%B3digo-de-computadora-abstracto-en-blanco-negro-programaci%C3%B3n-sobre-fondo-concepto-ciberespacio-180554139.jpg" width="250">
 </p>
 <p align="center">
-<img src="Full Stack.png" width="500">
+  <img src="Full Stack.png" width="500" style="height:250px; object-fit:cover;">
 </p>
 
 ## Profile
