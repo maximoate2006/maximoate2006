@@ -10,7 +10,7 @@
 ## Profile
 Property                 | Data  
 -------------------------|------
-Language |<img src="C.png" width="45">        <img src="CSS.png" width="45">                                <img src="html.png" width="45">        <img src="jason.png" width="45">        <img src="js.png" width="45">        <img src="py.png" width="45">        <img src="SQLite.png" width="45">        
+Language |<img src="C.png" width="45">        <img src="CSS.png" width="45">                                <img src="html.png" width="45">       <img src="js.png" width="45">        <img src="py.png" width="45">        <img src="SQLite.png" width="45">        
 Tool / Framework         |       <img src="Express.png" width="100">        <img src="node.png" width="45">        <img src="GIT.png" width="45">        <img src="VC.png" width="55">        ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)                
 Domain Knownledge        | ![Systems Engineering Student](https://img.shields.io/badge/Systems_Engineering_Student-black?style=for-the-badge)        ![SDD](https://img.shields.io/badge/SDD-white?style=for-the-badge)        
 CI / CD                  |  ![Cloudflare](https://img.shields.io/badge/Cloudflare-000000?style=for-the-badge&logo=cloudflare&logoColor=white)        [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-ffffff?style=flat&logo=Github-Actions&logoColor=black)](https://github.com/zmcx16/zmcx16)
